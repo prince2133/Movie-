@@ -65,7 +65,7 @@
 `IF YOU WANT TO DEPLOY SULA-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT`
 
  
-<a href="https://dashboard.heroku.com/new-app?template=https://github.com/CYBER-ASHUU-OFC/Mage-puka" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="DEPLOY BOT" height="90" width="280" /></a>
+<a href="https://dashboard.heroku.com/new-app?template=https://github.com/prince2133/Movie-" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="DEPLOY BOT" height="90" width="280" /></a>
 
 <hr>
 
