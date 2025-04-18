@@ -35,7 +35,7 @@ const Crypto = require('crypto')
 const path = require('path')
 const prefix = ','
 
-const ownerNumber = ['94760091093']
+const ownerNumber = ['94777899089']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
@@ -92,19 +92,19 @@ conn.ev.on("connection.update", async (update) => {
     // Load and install plugins
     const plugins = [
       {
-        'url': "https://raw.githubusercontent.com/lunespanel234/Llunespanel/refs/heads/main/alive.js",
+        'url': "https://raw.githubusercontent.com/prince2133/Mage-pak/refs/heads/main/alive.js",
           'id': "alive.js"
         }, {
-          'url': "https://raw.githubusercontent.com/sulaksha49/PUKA_DA_BALANNE/refs/heads/main/ai_ballo_horen_balanne/menu.js",
+          'url': "https://raw.githubusercontent.com/prince2133/Mage-pak/refs/heads/main/menu.js",
           'id': "menu.js"
       }, {
-          'url': "https://raw.githubusercontent.com/sulaksha49/PUKA_DA_BALANNE/refs/heads/main/ai_ballo_horen_balanne/setting.js",
+          'url': "https://raw.githubusercontent.com/prince2133/Mage-pak/refs/heads/main/setting.js",
           'id': "setting.js"
       }, {
-          'url': "https://raw.githubusercontent.com/sulaksha49/PUKA_DA_BALANNE/refs/heads/main/ai_ballo_horen_balanne/restart.js",
+          'url': "https://raw.githubusercontent.com/prince2133/Mage-pak/refs/heads/main/restart.js",
           'id': "restart.js"
       }, {
-          'url': "https://raw.githubusercontent.com/sulaksha49/PUKA_DA_BALANNE/refs/heads/main/ai_ballo_horen_balanne/update_env.js",
+          'url': "https://raw.githubusercontent.com/prince2133/Mage-pak/refs/heads/main/update_env.js",
           'id': "update_env.js"
       }
     ];
